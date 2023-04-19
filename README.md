@@ -7,3 +7,5 @@ Our codebase is hosted on Gitlab.
 The live app is at https://bloomnetwork.earth
 
 To apply to start a Local Bloom, or join your existing local project to Bloom Network, visit https://bloomnetwork.earth/startLocal
+
+If you would like to contribute to Bloom, get in touch at community [at] bloomnetwork [dot] earth
