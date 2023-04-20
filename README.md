@@ -4,7 +4,7 @@ The current list of things that need doing in Bloom is here - [Bloom Network Tas
 
 Our codebase is hosted on Gitlab.
 
-Our governance, economic protocol, and token engineering is open source in our [Whitepaper](https://drive.google.com/file/d/1xZFoS7EHlmPfnAKAOHdbK0FTHBMSrItO/view?usp=sharing).
+Open source governance, economic protocol, and token engineering: [Whitepaper](https://drive.google.com/file/d/1xZFoS7EHlmPfnAKAOHdbK0FTHBMSrItO/view?usp=sharing).
 
 The live app is at https://bloomnetwork.earth
 
