@@ -2,7 +2,9 @@
 
 Open source governance, economic protocol, and token engineering: [Whitepaper](https://drive.google.com/file/d/1xZFoS7EHlmPfnAKAOHdbK0FTHBMSrItO/view?usp=sharing)
 
-Our codebase is hosted on Gitlab.
+Open source bounty dApp: [https://github.com/InverterNetwork/bounty/tree/bloom](https://github.com/InverterNetwork/bounty/tree/bloom)
+
+Our social app codebase is hosted on Gitlab.
 
 The live app is at https://bloomnetwork.earth
 
