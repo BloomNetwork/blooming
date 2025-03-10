@@ -1,6 +1,6 @@
 # blooming
 
-Open source governance, economic protocol, and token engineering: [Whitepaper](https://drive.google.com/file/d/1xZFoS7EHlmPfnAKAOHdbK0FTHBMSrItO/view?usp=sharing)
+Open source: governance (for a public utility (communications network) owned as a federated cooperative by local nodes), economic protocol, and token engineering: [Whitepaper](https://bloomnetwork.earth/learn/whitepaper)
 
 Open source bounty dApp: [https://github.com/InverterNetwork/bounty/tree/bloom](https://github.com/InverterNetwork/bounty/tree/bloom)
 
