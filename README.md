@@ -4,7 +4,7 @@ Open source: governance (for a public utility (communications network) owned as 
 
 Open source bounty dApp: [https://github.com/InverterNetwork/bounty/tree/bloom](https://github.com/InverterNetwork/bounty/tree/bloom)
 
-Our social app codebase is hosted on Gitlab.
+Our social app codebase is hosted on [Gitlab](https://gitlab.com/bloom-network).
 
 The live app is at https://bloomnetwork.earth
 
